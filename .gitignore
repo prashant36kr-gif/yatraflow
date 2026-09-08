@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+*.egg-info/
+
+# Scratch / generated files
+scratch_photos.json
+update_images.py
+update_suggestions_and_images.py
+generate_expanded_data.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
